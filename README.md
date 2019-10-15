@@ -12,8 +12,7 @@
 - CONFIG GLOBAL REPO
 $ git config --global user.name “nama_user”
 $ git config --global user.email “nama_user”
-- ![Gitconfig](https://github.com/alviandwipramono/massvian/blob/master/gmbr/mkdir.PNG)
-## Membuat Repo lokal
+- ![Gitconfig](https://github.com/alviandwipramono/massvian/blob/master/gmbr/Untitled.png## Membuat Repo lokal
 - Buka direktory aktif, misal: d:\labs_pemrograman1 (buka menggunakan Windows Explorer) 
 - klik kanan pada direktory aktif tersebut, dan pilih menu Git Bash, sehingga muncul git bash command
 - Buat direktory project praktikum pertama dengan nama latihan1
