@@ -54,12 +54,12 @@ $ git config --global user.email “nama_user”
 - Remote Repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan pada local repository, sehingga dapat diakses oleh banyak user. 
 - Untuk menambahkan remote repository server, gunakan perintah git remote add origin [url]
 - $ git remote add origin https://github.com/.........
-- ![gitremoteaddorigin](C:/Users/user/Desktop/New%20folder/Capture6.PNG)
+- ![gitremoteaddorigin](G)
 ## Push (Mengirim perubahan ke server)
 - Untuk mengirim perubahan pada local repository ke server gunakan perintah git push.
 - Perintah ini akan meminta memasukkan username dan password pada akun github.com
 - $ git push -u origin master
-- ![gitpushorigin](C:/Users/user/Desktop/New%20folder/Capture7.PNG)
+- ![gitpushorigin](https://github.com/alviandwipramono/massvian/blob/master/gmbr/origin%20master.PNG)
 ## Clone Repository
 - Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (working directory).
 - Untuk melakukan cloning, gunakan perintah git clone [url]
